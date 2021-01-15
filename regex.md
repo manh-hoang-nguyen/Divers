@@ -31,6 +31,7 @@ Tương tự ta cũng có phủ định của nó là (?!) và (?<!)
 * "**.+?**" matches any character (except for line terminators) (Line terminators are \n)
 * "**\w+**" matches any word character (equal to [a-zA-Z0-9_])
 * "string1(.\*)string2" match word between string1 and string2
+* "string1(.\*?)string2" match word between string 1 and string2 gan string 1 nhat
 ## Kí tự (kí hiệu, cờ)	Ý nghĩa
  * \	
 
